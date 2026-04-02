@@ -4,7 +4,7 @@ This project implements a simple **reflow oven controller** using an Arduino, a 
 
 ---
 
-## 📌 Features
+## Features
 
 * Reads temperature using a MAX6675 thermocouple
 * Controls a heating element via relay
